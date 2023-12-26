@@ -1,16 +1,15 @@
-.page{
-   .form{
-      .list{
-         border: 1px solid #F3F3F3;
-         box-sizing: border-box;
-         border-radius: 8px;
-         padding: 1.5rem 1rem;
-      }
-   }
-   .btn{
-      margin: 0.5rem 0;
-      display: flex;
-      justify-content: end;
-   }
+.page {
+  .form {
+    .list {
+      border: 1px solid #f3f3f3;
+      box-sizing: border-box;
+      border-radius: 8px;
+      padding: 1.5rem 1rem;
+    }
+  }
+  .btn {
+    margin: 0.5rem 0;
+    display: flex;
+    justify-content: end;
+  }
 }
-   
